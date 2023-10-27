@@ -1,14 +1,18 @@
 # FDS_PRACTICAL1
-#Usage
-Clone this repository or download the FDS_Pr1.py file to your local machine.
+# Usage
 
+Clone this repository or download the FDS_Pr1.py file to your local machine.
+  ```bash
+    https://github.com/MGxCoder/FDS_PRACTICAL1.git
+   ```
 Open a terminal or command prompt and navigate to the directory where you've saved the FDS_Pr1.py file.
 
 Run the script using the following command:
 
-bash
-Copy code
-python FDS_Pr1.py
+  ```bash
+
+   python FDS_Pr1.py
+   ```
 The script will prompt you to enter transactions. Transactions should be entered in the following format:
 
 Deposits: D[amount], e.g., D100 to deposit $100.
@@ -20,4 +24,4 @@ To exit the script, simply press Enter when prompted for a transaction.
 This project is open-source and available under the MIT License. You are free to use and modify the script for your own purposes.
 
 Author
-[Your Name] - Insert your contact information or GitHub profile if desired.
+[MGxCodes] - Insert your contact information or GitHub profile if desired.
